@@ -30,7 +30,10 @@ body {
       width: 200px;
       -webkit-transform-style: preserve-3d;
     }
-    
+    .text {
+    	font-family: 'Lobster', cursive;
+    	margin: 10px 0;
+    }
     .plane {
       position: absolute;
       height: 200px;
